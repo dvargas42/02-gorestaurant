@@ -7,6 +7,7 @@ import Modal from "../Modal";
 import Input from "../Input";
 
 interface Food {
+  id: number;
   name: string;
   description: string;
   price: string;
@@ -16,7 +17,7 @@ interface Food {
 interface ModaEditFoodProps {
   isOpen: boolean;
   setIsOpen: () => void;
-  handleUpdateFood: (food: Food) => void;
+  handleUpdateFood: (food: Food) => Promise<void>;
   editingFood: {};
 }
 
