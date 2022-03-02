@@ -7,16 +7,17 @@ import Modal from "../Modal";
 import Input from "../Input";
 
 interface Food {
+  id: number;
   name: string;
   description: string;
-  price: number;
+  price: string;
   available: boolean;
   image: string;
 }
 
 interface ModalAddFoodProps {
   isOpen: boolean;
-  handleAddFood: (food: Food) => void;
+  handleAddFood: (food: Food) => Promise<void>;
   setIsOpen: () => void;
 }
 
