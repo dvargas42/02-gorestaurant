@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/dvargas42/image/upload/v1646086553/sil-cards/logo_gvb2uj.png" width="300px">
+  <img alt="Logo" src="/src/assets/logo.svg" width="300px">
 
 <h3 align="center">
   The React app to Go Restaurant project.
