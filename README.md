@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="/src/assets/logo.svg" width="300px">
+  <img alt="Logo" src="/src/assets/logo.svg" width="600px">
 
 <h3 align="center">
   The React app to Go Restaurant project.
