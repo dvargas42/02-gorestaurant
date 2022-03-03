@@ -65,12 +65,12 @@ width="400px">
 Technologies that I used to develop this web application
 
 - [ReactJS](https://reactjs.org/)
-- [JsonServer](https://github.com/typicode/json-server)
 - [TypeScript](https://www.typescriptlang.org/)
+- [JSON Server](https://github.com/typicode/json-server)
 - [Axios](https://github.com/axios/axios)
-- [RectModal](https://reactcommunity.org/react-modal/)
-- [ReactIcons](https://react-icons.github.io/react-icons/)
-- [StyledComponents](https://styled-components.com/)
+- [Rect Modal](https://reactcommunity.org/react-modal/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Styled Components](https://styled-components.com/)
 - [Unform](https://github.com/unform/unform)
 
 
